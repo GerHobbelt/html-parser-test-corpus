@@ -1,0 +1,21 @@
+[submodule "3rd/wpt"]
+	path = 3rd/wpt
+	url = https://github.com/web-platform-tests/wpt
+[submodule "3rd/HTML5test"]
+	path = 3rd/HTML5test
+	url = https://github.com/WebPlatformTest/HTML5test
+[submodule "3rd/test-page5"]
+	path = 3rd/test-page5
+	url = https://github.com/cbracco/html5-test-page
+[submodule "3rd/kitchen-sink"]
+	path = 3rd/kitchen-sink
+	url = https://github.com/dbox/html5-kitchen-sink
+[submodule "3rd/html5lib"]
+	path = 3rd/html5lib
+	url = https://github.com/html5lib/html5lib-tests
+[submodule "3rd/Va11yS"]
+	path = 3rd/Va11yS
+	url = https://github.com/IBMa/Va11yS
+[submodule "3rd/AT-browser"]
+	path = 3rd/AT-browser
+	url = https://github.com/ThePacielloGroup/AT-browser-tests
