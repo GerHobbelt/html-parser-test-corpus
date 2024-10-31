@@ -19,3 +19,6 @@
 [submodule "3rd/AT-browser"]
 	path = 3rd/AT-browser
 	url = https://github.com/ThePacielloGroup/AT-browser-tests
+[submodule "3rd/tidy"]
+	path = 3rd/tidy
+	url = https://github.com/GerHobbelt/tidy-html5
